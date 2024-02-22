@@ -1,1 +1,4 @@
-# react-firebase-auth
+# react-auth
+User login and signup using Reat JS and Firebase.
+
+
